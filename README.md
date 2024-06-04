@@ -47,3 +47,13 @@ Crie uma função chamada "calcular_dano" que recebe dois parâmetros: "ataque" 
 Se o valor do dano for negativo, ele deve ser considerado zero.
 Entrada:
 [👩‍💻resolution 3 ](https://github.com/nadiduno/ChallengesDioAvanadeC-/blob/main/joRPGAtaque.cs)
+
+## Challenge 4
+
+Em jogos de RPG, os personagens possuem atributos que determinam suas habilidades em diferentes áreas, como força, agilidade, inteligência, etc. Neste desafio, você deve criar uma função que verifica se o valor de um determinado atributo está dentro de um intervalo aceitável.
+
+Crie uma função chamada "verificar_atributo" que recebe três parâmetros: "atributo", "valor_minimo" e "valor_maximo". A função deve verificar se o valor do atributo está dentro do intervalo definido pelos valores mínimo e máximo.
+Caso o valor esteja dentro do intervalo, a função deve retornar true. Caso contrário, deve retornar false.
+
+
+[👩‍💻resolution 4 ](https://github.com/nadiduno/ChallengesDioAvanadeC-/blob/main/jogoRPGAtributos.cs)
